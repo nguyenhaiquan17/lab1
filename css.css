@@ -1,0 +1,68 @@
+body{
+    color: #222;
+    font: 400 15px arial;
+    min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+#menu{
+    margin-left: 200px;
+    width: 100%;
+}
+#menu ul{
+    width: 100%;
+    margin-left: 200px;
+}
+#menu ul a{
+    display: block;
+    color: #222;
+    float: left;
+    width: 100%;
+    margin-left: 500px;
+}
+#logo{
+    width: 100%;
+}
+#logo1{
+    float: left;
+}
+#logo2{
+    float: left;
+}
+#logo3{
+    float: left;
+}
+#x{
+    width: 100%;
+    margin-left: auto;
+}
+#x ul{
+    margin: auto;
+}
+#x ul a{
+    text-decoration: none;
+    color: #222;
+    display: block;
+    font-size: larger;
+    margin-left: auto;
+    padding: auto;
+}
+#gdien{
+    width: 100%;
+}
+#gdien #left{
+    float: left;
+    width: 35%;
+}
+#gdien #mid{
+    float: left;
+    width: 25%;
+}
+#gdien #right{
+    float: left;
+    width: 30%;
+}
+#image{
+    float: left;
+    width: 30%;
+}
